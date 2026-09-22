@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Ivan 👋
 
-<!--
-**phonicss/phonicss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Solidity / Smart Contract Developer
 
-Here are some ideas to get you started:
+I'm a software engineer focused on Ethereum and Web3 development.
+Currently building and testing smart contracts while expanding into
+DeFi, smart contract security and Zero-Knowledge technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Smart Contracts**
+- Solidity
+- Ethereum / EVM
+- ERC-20
+- DeFi fundamentals
+
+**Development**
+- Hardhat
+- ethers.js v6
+- viem
+- Chai
+- JavaScript
+
+**Currently Learning**
+- Foundry
+- Smart Contract Security
+- Zero-Knowledge Proofs
+- Finite Fields & Cryptography
+
+## 🚀 Projects
+
+### ForgeToken
+ERC-20-like token implementation built from scratch.
+
+Features:
+- Transfers & allowances
+- Mint / Burn
+- Ownership
+- Pause mechanism
+- Maximum supply
+- Custom errors
+- Events
+- Automated tests
+
+`Solidity · Hardhat · ethers.js · Chai`
+
+### InvoiceEscrow
+Smart contract for trustless buyer/seller payments.
+
+Features:
+- Escrow payments
+- Seller delivery confirmation
+- Buyer/Seller permissions
+- Contract state management
+- Custom errors
+
+`Solidity · Hardhat · ethers.js`
+
+### OwnableVault
+ETH vault with protocol fees and owner-controlled fee withdrawals.
+
+Features:
+- Deposits
+- Withdrawals
+- 2% protocol fee
+- Ownership
+- Transfer failure protection
+- Custom errors
+
+`Solidity · Hardhat`
+
+## 🎯 Current Goal
+
+Contributing to Web3 open-source projects and taking Solidity bounties.
+
+Interested in:
+- Smart contract development
+- Solidity testing
+- DeFi
+- Ethereum
+- ZK
