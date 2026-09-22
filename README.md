@@ -8,18 +8,20 @@ DeFi, smart contract security and Zero-Knowledge technologies.
 
 ## 🛠 Tech Stack
 
-**Smart Contracts**
+**Smart Contracts & Web3**
 - Solidity
 - Ethereum / EVM
 - ERC-20
 - DeFi fundamentals
 
 **Development**
+- TypeScript
+- JavaScript
+- Rust
 - Hardhat
 - ethers.js v6
 - viem
 - Chai
-- JavaScript
 
 **Currently Learning**
 - Foundry
