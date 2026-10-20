@@ -87,37 +87,6 @@ Features:
 
 `Solidity · Hardhat · ethers.js · Chai`
 
----
-
-### InvoiceEscrow
-
-Smart contract for trustless buyer/seller payments.
-
-Features:
-- Escrow payments
-- Seller delivery confirmation
-- Buyer/Seller permissions
-- Contract state management
-- Custom errors
-
-`Solidity · Hardhat · ethers.js`
-
----
-
-### OwnableVault
-
-ETH vault with protocol fees and owner-controlled fee withdrawals.
-
-Features:
-- Deposits
-- Withdrawals
-- 2% protocol fee
-- Ownership
-- Transfer failure protection
-- Custom errors
-
-`Solidity · Hardhat`
-
 ## 🔐 Security Focus
 
 I'm actively developing smart contract security skills through:
